@@ -1,0 +1,11 @@
+D:\PrjJack\Prototipo\Src\Core.Shared.Android\bin\Debug\Core.Shared.Android.dll
+D:\PrjJack\Prototipo\Src\Core.Shared.Android\bin\Debug\Core.Shared.Android.pdb
+D:\PrjJack\Prototipo\Src\Core.Shared.Android\bin\Debug\Core.Shared.Android.dll.mdb
+D:\PrjJack\Prototipo\Src\Core.Shared.Android\bin\Debug\Core.Shared.Android.apk
+D:\PrjJack\Prototipo\Src\Core.Shared.Android\bin\Debug\Core.Shared.Android-Signed.apk
+D:\PrjJack\Prototipo\Src\Core.Shared.Android\obj\Debug\Core.Shared.Android.dll
+D:\PrjJack\Prototipo\Src\Core.Shared.Android\obj\Debug\Core.Shared.Android.pdb
+D:\PrjJack\Prototipo\Src\Core.Shared.Android\obj\Debug\android\bin\Core.Shared.Android.apk
+D:\PrjJack\Prototipo\Src\Core.Shared.Android\obj\Debug\res\values\strings.xml
+D:\PrjJack\Prototipo\Src\Core.Shared.Android\obj\Debug\R.cs.flag
+D:\PrjJack\Prototipo\Src\Core.Shared.Android\obj\Debug\uploadflags.txt

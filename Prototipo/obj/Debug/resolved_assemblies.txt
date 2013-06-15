@@ -1,0 +1,4 @@
+D:\PrjJack\Prototipo\Src\Prototipo\bin\Debug\Prototipo.Android.dll
+D:\PrjJack\Prototipo\Src\Prototipo\bin\Debug\Core.Shared.Android.dll
+D:\PrjJack\Prototipo\Src\Prototipo\bin\Debug\CoreUI.Android.dll
+D:\PrjJack\Prototipo\Src\Prototipo\bin\Debug\Tabelle.Android.dll

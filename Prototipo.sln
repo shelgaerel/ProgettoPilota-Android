@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prototipo.Android", "Prototipo\Prototipo.Android.csproj", "{4F99D853-BF96-4688-86B2-3DCD61D79236}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tabelle.Android", "Tabelle\Tabelle.Android.csproj", "{86B37DF5-2BE2-49D9-8EEC-228E9B0C1650}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core.Shared.Android", "Core.Shared.Android\Core.Shared.Android.csproj", "{C8E01FCA-9E89-48AD-801F-B773AC89CEAF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core.UI.Android", "Core.UI.Android\Core.UI.Android.csproj", "{50A740FF-AA39-4011-BB9B-2BD5E24F6B01}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F99D853-BF96-4688-86B2-3DCD61D79236}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F99D853-BF96-4688-86B2-3DCD61D79236}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F99D853-BF96-4688-86B2-3DCD61D79236}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F99D853-BF96-4688-86B2-3DCD61D79236}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50A740FF-AA39-4011-BB9B-2BD5E24F6B01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50A740FF-AA39-4011-BB9B-2BD5E24F6B01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50A740FF-AA39-4011-BB9B-2BD5E24F6B01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50A740FF-AA39-4011-BB9B-2BD5E24F6B01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86B37DF5-2BE2-49D9-8EEC-228E9B0C1650}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86B37DF5-2BE2-49D9-8EEC-228E9B0C1650}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86B37DF5-2BE2-49D9-8EEC-228E9B0C1650}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86B37DF5-2BE2-49D9-8EEC-228E9B0C1650}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8E01FCA-9E89-48AD-801F-B773AC89CEAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8E01FCA-9E89-48AD-801F-B773AC89CEAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8E01FCA-9E89-48AD-801F-B773AC89CEAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8E01FCA-9E89-48AD-801F-B773AC89CEAF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Prototipo\Prototipo.Android.csproj
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

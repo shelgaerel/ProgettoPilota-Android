@@ -1,0 +1,2 @@
+values\Strings.xml;values\strings.xml
+layout\AreeUI.axml;layout\areeui.xml

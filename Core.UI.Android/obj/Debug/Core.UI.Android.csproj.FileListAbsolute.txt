@@ -1,0 +1,15 @@
+D:\PrjJack\Prototipo\Src\Core.UI.Android\obj\Debug\Core.UI.Android.csprojResolveAssemblyReference.cache
+D:\PrjJack\Prototipo\Src\Core.UI.Android\bin\Debug\CoreUI.Android.dll
+D:\PrjJack\Prototipo\Src\Core.UI.Android\bin\Debug\CoreUI.Android.pdb
+D:\PrjJack\Prototipo\Src\Core.UI.Android\bin\Debug\CoreUI.Android.dll.mdb
+D:\PrjJack\Prototipo\Src\Core.UI.Android\bin\Debug\CoreUI.Android.apk
+D:\PrjJack\Prototipo\Src\Core.UI.Android\bin\Debug\CoreUI.Android-Signed.apk
+D:\PrjJack\Prototipo\Src\Core.UI.Android\bin\Debug\Core.Shared.Android.dll
+D:\PrjJack\Prototipo\Src\Core.UI.Android\bin\Debug\Core.Shared.Android.pdb
+D:\PrjJack\Prototipo\Src\Core.UI.Android\bin\Debug\Core.Shared.Android.dll.mdb
+D:\PrjJack\Prototipo\Src\Core.UI.Android\obj\Debug\CoreUI.Android.dll
+D:\PrjJack\Prototipo\Src\Core.UI.Android\obj\Debug\CoreUI.Android.pdb
+D:\PrjJack\Prototipo\Src\Core.UI.Android\obj\Debug\android\bin\CoreUI.Android.apk
+D:\PrjJack\Prototipo\Src\Core.UI.Android\obj\Debug\res\values\strings.xml
+D:\PrjJack\Prototipo\Src\Core.UI.Android\obj\Debug\R.cs.flag
+D:\PrjJack\Prototipo\Src\Core.UI.Android\obj\Debug\uploadflags.txt
