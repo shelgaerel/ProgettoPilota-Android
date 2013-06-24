@@ -18,7 +18,7 @@ using System.Linq;
 namespace Tabelle
 {
 	[Activity (Label = "Prototipo")]
-	public class AreeUI : DataManagerBase 
+	public class AreeUI : ActivityManagerBase 
 	{
 		private AreeEngine Engine
 		{

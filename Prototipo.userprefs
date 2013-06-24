@@ -1,47 +1,34 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Core.Shared.Android\Factory\CardEngineFactory.cs">
-    <Files>
-      <File FileName="Prototipo\Navigator.cs" Line="1" Column="1" />
-      <File FileName="Core.Shared.Android\Factory\CardEngineFactory.cs" Line="9" Column="3" />
-      <File FileName="Tabelle\AreeUI.cs" Line="1" Column="1" />
-      <File FileName="Core.UI.Android\DataManagerBase.cs" Line="18" Column="18" />
-      <File FileName="Core.Shared.Android\Engine\CardEngineBase.cs" Line="23" Column="11" />
-      <File FileName="Core.Shared.Android\Entity\CardEntityBase.cs" Line="1" Column="1" />
-      <File FileName="Core.Shared.Android\Entity\CustomAttributes.cs" Line="9" Column="19" />
-      <File FileName="Core.Shared.Android\Entity\DataBinding.cs" Line="26" Column="19" />
-      <File FileName="Core.Shared.Android\Interface\ICardEngine.cs" Line="1" Column="1" />
-      <File FileName="Core.Shared.Android\Utility.cs" Line="1" Column="1" />
-      <File FileName="Tabelle\Entity\AreeEntity.cs" Line="1" Column="1" />
-    </Files>
+  <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State expanded="True">
-          <Node name="Core.Shared.Android" expanded="True">
-            <Node name="Engine" expanded="True" />
-            <Node name="Entity" expanded="True" />
-            <Node name="Factory" expanded="True" />
+          <Node name="CoreFactory" expanded="True" />
+          <Node name="CoreLibrary" expanded="True">
+            <Node name="AbstractDataEntityManager" expanded="True" />
+            <Node name="Attribute" expanded="True" />
+            <Node name="DataBinding" expanded="True" />
+            <Node name="DataEntityBase" expanded="True" />
+            <Node name="Enum" expanded="True" />
+            <Node name="SQLite" expanded="True" />
+            <Node name="Utility" expanded="True" />
           </Node>
-          <Node name="Core.UI.Android" expanded="True" />
-          <Node name="Prototipo.Android" expanded="True">
-            <Node name="References" expanded="True">
-              <Node name="Tabelle.Android" selected="True" />
-            </Node>
-          </Node>
-          <Node name="Tabelle.Android" expanded="True">
-            <Node name="Entity" expanded="True" />
-          </Node>
+          <Node name="DataEntity" expanded="True" />
+          <Node name="DataEntityManager" expanded="True" />
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
+    <BreakpointStore>
+      <Breakpoint file="/Users/matteonavanzino/Projects/ProgettoPilota-iOs/DataListDataSource-iOs/DataListDataSource/AreeDataListSource.cs" line="39" column="51" />
+      <Breakpoint file="/Users/matteonavanzino/Projects/ProgettoPilota-iOs/ProgettoPilota-iOs-StoryBoard/MenuTableCell/MenuTableCell.cs" line="15" column="38" />
+      <Breakpoint file="/Users/matteonavanzino/Projects/ProgettoPilota-iOs/ProgettoPilota-iOs-StoryBoard/MenuTableCell/MenuTableCell.cs" line="26" column="43" />
+      <Breakpoint file="/Users/matteonavanzino/Projects/ProgettoPilota-iOs/ProgettoPilota-iOs-StoryBoard/TestTable.cs" line="18" column="25" />
+      <Breakpoint file="/Users/matteonavanzino/Projects/ProgettoPilota-iOs/ProgettoPilota-iOs-StoryBoard/DataListDataSource/AreeDataListSource.cs" line="49" column="1" />
+    </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
-    <Watch file="Core.BaseEngine.Android\Factory\CardEngineFactory.cs" line="53" offsetX="248" offsetY="832" expression="assembly" liveUpdate="False" />
-    <Watch file="Prototipo\AreeUI.cs" line="42" offsetX="633" offsetY="656" expression="ass" liveUpdate="False" />
-    <Watch file="CoreUI.Android\DataManagerBase.cs" line="38" offsetX="487" offsetY="555" expression="nestedTypes" liveUpdate="False" />
-  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
-  <MonoDevelop.Ide.ItemProperties.Prototipo.Android AndroidDeviceId-Debug="emulator-5554" MonoForAntroid.PreferredDevice="3.7in WVGA (Nexus One)" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Prototipo.Android MonoForAntroid.PreferredDevice="3.7in WVGA (Nexus One)" />
 </Properties>

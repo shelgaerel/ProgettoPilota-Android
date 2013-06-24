@@ -1,0 +1,11 @@
+/Users/matteonavanzino/Projects/ProgettoPilota-Android/Core.Shared.Android/obj/Debug/Core.obj.Debug.__AndroidLibraryProjects__.zip
+/Users/matteonavanzino/Projects/ProgettoPilota-Android/Core.Shared.Android/bin/Debug/Core.Shared.Android.dll.mdb
+/Users/matteonavanzino/Projects/ProgettoPilota-Android/Core.Shared.Android/bin/Debug/Core.Shared.Android.dll
+/Users/matteonavanzino/Projects/ProgettoPilota-Android/Core.Shared.Android/bin/Debug/Core.Shared.Android.apk
+/Users/matteonavanzino/Projects/ProgettoPilota-Android/Core.Shared.Android/obj/Debug/android/bin/Core.Shared.Android.apk
+/Users/matteonavanzino/Projects/ProgettoPilota-Android/Core.Shared.Android/obj/Debug/res/values/strings.xml
+/Users/matteonavanzino/Projects/ProgettoPilota-Android/Core.Shared.Android/obj/Debug/R.cs.flag
+/Users/matteonavanzino/Projects/ProgettoPilota-Android/Core.Shared.Android/bin/Debug/Core.Shared.Android-Signed.apk
+/Users/matteonavanzino/Projects/ProgettoPilota-Android/Core.Shared.Android/obj/Debug/uploadflags.txt
+/Users/matteonavanzino/Projects/ProgettoPilota-Android/Core.Shared.Android/obj/Debug/Core.Shared.Android.dll
+/Users/matteonavanzino/Projects/ProgettoPilota-Android/Core.Shared.Android/obj/Debug/Core.Shared.Android.dll.mdb
